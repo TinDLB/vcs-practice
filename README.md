@@ -68,3 +68,6 @@ Requires proper usage and discipline
 
 Needs storage and configuration
 
+Day la file da cap nhat sau khi up len github
+
+
