@@ -68,7 +68,11 @@ Requires proper usage and discipline
 
 Needs storage and configuration
 
-Day la file da cap nhat sau khi up len github
+Day la file da cap nhat sau khi up len GitHub
+
+
+
+Day la lan hai cap nhat
 
 
 
