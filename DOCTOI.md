@@ -70,5 +70,7 @@ Needs storage and configuration
 
 Day la file da cap nhat sau khi up len github
 
+This is the second time i edit this
+
 
 
